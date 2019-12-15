@@ -1,0 +1,19 @@
+body{
+  border: 1px solid grey;
+	padding: 30px;
+}
+h1{
+  text-align:center; 
+  color: blue
+}
+h2{
+  text-decoration:underline;
+}
+h3{
+  padding: 0px;
+  margin: 0px;
+  
+}
+p{
+  text-align: center;
+}
